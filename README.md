@@ -101,7 +101,7 @@
 
 ### `Learn Software Testing Certification Course`
 #
-[Live Preview this Certificate]()
+[Live Preview this Certificate](https://www.eduonix.com/certificate/c133ae57e3)
 #
 ![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/SQACertificates/certificate-Learn-Software-Testing-Certification-course.jpg)
 #
