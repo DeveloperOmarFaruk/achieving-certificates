@@ -13,7 +13,7 @@
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-6aa92768-3f53-4609-88a9-9b701c2ac61d/)
 #
-![image](https://github.com/DeveloperOmarFaruk/Achieving-Certificates/blob/main/BootstrapForBeginners.jpg)
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/BootstrapForBeginners.jpg)
 #
 
 
@@ -21,7 +21,7 @@
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-5c20e6a1-e882-4d09-bbb8-c24e4ca96c67/)
 #
-![image](https://github.com/DeveloperOmarFaruk/Achieving-Certificates/blob/main/ReactJavascriptFoundation.jpg)
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/ReactJavascriptFoundation.jpg)
 #
 
 ### `The Complete HTML5 Course: From Beginning to Expert`
