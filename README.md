@@ -103,13 +103,13 @@
 #
 [Live Preview this Certificate](https://www.eduonix.com/certificate/c133ae57e3)
 #
-![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/SQACertificates/certificate-Learn-Software-Testing-Certification-course.jpg)
+![image]()
 #
 
 
 ### `Learn Web Automation Testing Using Selenium`
 #
-[Live Preview this Certificate]()
+[Live Preview this Certificate](https://www.eduonix.com/certificate/053d095845)
 #
-![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/SQACertificates/certificate-Learn-Web-Automation-Testing-Using-Selenium.jpg)
+![image]()
 #
