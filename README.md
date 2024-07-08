@@ -6,7 +6,7 @@
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-2232c760-f44a-41be-adbb-d0dd7a98e8f8/)
 #
-![image](https://github.com/DeveloperOmarFaruk/Achieving-Certificates/blob/main/LearnHTMLFromScratch.jpg)
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/LearnHTMLFromScratch.jpg)
 #
 
 ### `Learn Bootstrap - For Beginners`
