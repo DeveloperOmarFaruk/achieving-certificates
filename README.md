@@ -85,3 +85,31 @@
 #
 ![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/linkedInFronted.png)
 #
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+#
+# SQA Certificates
+#
+
+### `For Successfully Completing SQA Course and Examination on the Software Quality Assurance`
+#
+[Live Preview this Certificate]()
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/SQACertificates/BugResistance.png)
+#
+
+### `Learn Software Testing Certification Course`
+#
+[Live Preview this Certificate]()
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/SQACertificates/certificate-Learn-Software-Testing-Certification-course.jpg)
+#
+
+
+### `Learn Web Automation Testing Using Selenium`
+#
+[Live Preview this Certificate]()
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/SQACertificates/certificate-Learn-Web-Automation-Testing-Using-Selenium.jpg)
+#
