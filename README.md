@@ -103,7 +103,7 @@
 #
 [Live Preview this Certificate](https://www.eduonix.com/certificate/c133ae57e3)
 #
-![image]()
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/SQACertificates/Learn-Software-Testing-Certification-Course.jpg)
 #
 
 
@@ -111,5 +111,5 @@
 #
 [Live Preview this Certificate](https://www.eduonix.com/certificate/053d095845)
 #
-![image]()
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/SQACertificates/Learn-Web-Automation-Testing-Using-Selenium.jpg)
 #
