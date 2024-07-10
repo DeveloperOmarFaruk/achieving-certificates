@@ -89,6 +89,22 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 
 #
+# Backend Certificates
+#
+
+### `Build a Backend REST API with Node JS From Scratch`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-d00e0f0b-fa4c-433c-afb3-4d1233fe9dc2/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/BackendCertificates/backendRESTwithNodeJS.jpg)
+#
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+#
 # SQA Certificates
 #
 
