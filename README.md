@@ -92,6 +92,13 @@
 # Backend Certificates
 #
 
+### `Learn SQL in 3 Hours: A tutorial for fast learners`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-49d4609c-4163-4b04-942d-f8189a6a8c51/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/BackendCertificates/Learn%20SQL%20in%203%20Hours%20%20A%20tutorial%20for%20fast%20learners.jpg)
+#
+
 ### `Nodejs: All You Need to Know with Practical Project`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-5842eb91-1a5d-4955-9d2f-67ca784a3717/)
