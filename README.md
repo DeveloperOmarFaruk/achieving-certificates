@@ -2,6 +2,13 @@
 # Frontend Certificates
 #
 
+### `CSS Complete Course For Beginners`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-fe78f2e9-40b9-4765-8066-9eb5f3b61a60/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/CSS%20Complete%20Course%20For%20Beginners.jpg)
+#
+
 ### `Learn HTML from Scratch: Build Your First Website Today!`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-2232c760-f44a-41be-adbb-d0dd7a98e8f8/)
