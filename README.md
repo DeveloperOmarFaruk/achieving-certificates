@@ -132,8 +132,7 @@
 #
 
 ### `For Successfully Completing SQA Course and Examination on the Software Quality Assurance`
-#
-[Live Preview this Certificate]()
+
 #
 ![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/SQACertificates/BugResistance.png)
 #
