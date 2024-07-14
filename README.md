@@ -2,6 +2,13 @@
 # Frontend Certificates
 #
 
+### `Next.js Web Dev: Master this Powerful React Framework`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-2bd0488a-dea3-4733-9d49-b46ae2739be2/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Next.js%20Web%20Dev%20Master%20this%20Powerful%20React%20Framework.jpg)
+#
+
 ### `Web Design Course For Beginner to Advanced`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-5b820301-dbb1-4b4b-ba04-70c3c00d59cf/)
