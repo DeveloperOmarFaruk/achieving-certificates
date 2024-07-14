@@ -32,11 +32,11 @@
 #
 
 
-### ``
+### `Next-Gen Web Development: JavaScript & AI Essentials`
 #
-[Live Preview this Certificate]()
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-3610c206-31af-4d0b-9d7d-de3ccad5ed0c/)
 #
-![image]()
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Next-Gen%20Web%20Development%20JavaScript%20%26%20AI%20Essentials.jpg)
 #
 
 
