@@ -9,6 +9,44 @@
 ![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Next.js%20Web%20Dev%20Master%20this%20Powerful%20React%20Framework.jpg)
 #
 
+### `Foundations of Web Development: CSS, Bootstrap, JS, React`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-7fcc650a-0190-4317-8d25-36d85ba842ee/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Foundations%20of%20Web%20Development%20CSS%20Bootstrap%20JS%20React.jpg)
+#
+
+### ``
+#
+[Live Preview this Certificate]()
+#
+![image]()
+#
+
+
+### ``
+#
+[Live Preview this Certificate]()
+#
+![image]()
+#
+
+
+### ``
+#
+[Live Preview this Certificate]()
+#
+![image]()
+#
+
+
+### ``
+#
+[Live Preview this Certificate]()
+#
+![image]()
+#
+
 ### `Web Design Course For Beginner to Advanced`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-5b820301-dbb1-4b4b-ba04-70c3c00d59cf/)
