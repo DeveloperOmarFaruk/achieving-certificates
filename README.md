@@ -2,6 +2,21 @@
 # Frontend Certificates
 #
 
+### `Web Design Course For Beginner to Advanced`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-5b820301-dbb1-4b4b-ba04-70c3c00d59cf/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Web%20Design%20Course%20For%20Beginner%20to%20Advanced.jpg)
+#
+
+
+### `Learn to Build HTML Responsive Real-world Modern Websites`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-40bbceed-3ce8-44d3-a34e-3099d7e7fde1/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Learn%20to%20Build%20HTML%20Responsive%20Real-world%20Modern%20Websites.jpg)
+#
+
 ### `CSS Complete Course For Beginners`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-fe78f2e9-40b9-4765-8066-9eb5f3b61a60/)
