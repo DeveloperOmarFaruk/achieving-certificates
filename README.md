@@ -40,11 +40,11 @@
 #
 
 
-### ``
+### `JavaScript Mastery: Best Practices & Coding Efficiency`
 #
-[Live Preview this Certificate]()
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-d66030eb-cc7a-412d-8adf-4b26e97204e1/)
 #
-![image]()
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/JavaScript%20Mastery%20Best%20Practices%20%26%20Coding%20Efficiency.jpg)
 #
 
 ### `Web Design Course For Beginner to Advanced`
