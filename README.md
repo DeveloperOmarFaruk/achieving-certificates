@@ -2,6 +2,51 @@
 # Frontend Certificates
 #
 
+### `Next.js Web Dev: Master this Powerful React Framework`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-2bd0488a-dea3-4733-9d49-b46ae2739be2/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Next.js%20Web%20Dev%20Master%20this%20Powerful%20React%20Framework.jpg)
+#
+
+### `Foundations of Web Development: CSS, Bootstrap, JS, React`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-7fcc650a-0190-4317-8d25-36d85ba842ee/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Foundations%20of%20Web%20Development%20CSS%20Bootstrap%20JS%20React.jpg)
+#
+
+### `React.JS for E-commerce: Building a Store with React.JS`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-333c9cdb-6cef-40ee-8f13-4fbfb23fdfc2/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/React.JS%20for%20Ecommerce%20Building%20a%20Store%20with%20React.JS.jpg)
+#
+
+
+### `HTML5 & CSS3 Complete Course: Build Websites Like a Pro`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-fd122433-2f35-4f8d-b40c-cae53759c9f7/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/HTML5%20%26%20CSS3%20Complete%20Course%20Build%20Websites%20like%20a%20Pro.jpg)
+#
+
+
+### `Next-Gen Web Development: JavaScript & AI Essentials`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-3610c206-31af-4d0b-9d7d-de3ccad5ed0c/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Next-Gen%20Web%20Development%20JavaScript%20%26%20AI%20Essentials.jpg)
+#
+
+
+### `JavaScript Mastery: Best Practices & Coding Efficiency`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-d66030eb-cc7a-412d-8adf-4b26e97204e1/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/JavaScript%20Mastery%20Best%20Practices%20%26%20Coding%20Efficiency.jpg)
+#
+
 ### `Web Design Course For Beginner to Advanced`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-5b820301-dbb1-4b4b-ba04-70c3c00d59cf/)
