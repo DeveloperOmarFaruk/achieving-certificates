@@ -2,6 +2,29 @@
 # Frontend Certificates
 #
 
+### `Learn HTML - For Beginners`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-cdde9e2f-041e-4147-8b60-b53fb0acc98f/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Learn%20HTML%20For%20Beginners.jpg)
+#
+
+### `HTML - The Complete Guide to HTML for Beginners`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-7e1de6e7-a598-4e54-b185-5daa5e1244c8/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/HTML%20The%20Complete%20Guide%20to%20HTML%20for%20Beginners.jpg)
+#
+
+### `CSS And JavaScript Complete Course For Beginners`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-8bef0f07-d2d4-4ee1-8804-08664e0cfa76/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/CSS%20And%20JavaScript%20Complete%20Course%20For%20Beginners.jpg)
+#
+
+
+
 ### `Next.js Web Dev: Master this Powerful React Framework`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-2bd0488a-dea3-4733-9d49-b46ae2739be2/)
