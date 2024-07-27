@@ -2,6 +2,13 @@
 # Frontend Certificates
 #
 
+### `CSS And Javascript Crash Course`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-e0675b68-e294-4ed1-9a45-b5d5b0975fa5/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/CSS%20And%20Javascript%20Crash%20Course.jpg)
+#
+
 ### `Javascript Practicals Crash Course`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-566e00f6-ae43-4f8a-8073-916c41478466/)
