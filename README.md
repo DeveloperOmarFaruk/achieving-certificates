@@ -2,6 +2,13 @@
 # Frontend Certificates
 #
 
+### `Javascript Practicals Crash Course`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-566e00f6-ae43-4f8a-8073-916c41478466/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Javascript%20Practicals%20Crash%20Course.jpg)
+#
+
 ### `Learn HTML - For Beginners`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-cdde9e2f-041e-4147-8b60-b53fb0acc98f/)
