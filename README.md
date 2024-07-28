@@ -2,6 +2,20 @@
 # Frontend Certificates
 #
 
+### `CSS, Bootstrap, JavaScript, Web Development Course`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-753d04a4-6342-4f32-9400-d21b8c02c763/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/CSS%20Bootstrap%20JavaScript%20Web%20Development%20Course.jpg)
+#
+
+### `Become HTML Hero`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-89b30f03-9b53-4027-b959-8f86b0d8dafd/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Become%20HTML%20Hero.jpg)
+#
+
 ### `CSS And Javascript Crash Course`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-e0675b68-e294-4ed1-9a45-b5d5b0975fa5/)
