@@ -2,6 +2,13 @@
 # Frontend Certificates
 #
 
+### `JavaScript OOP: Mastering Modern Object-Oriented Programming`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-a4aa921e-b523-4745-a221-01c5d9792652/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/JavaScript%20OOP%20Mastering%20Modern%20Object-Oriented%20Programming.jpg)
+#
+
 ### `CSS, Bootstrap, JavaScript, Web Development Course`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-753d04a4-6342-4f32-9400-d21b8c02c763/)
