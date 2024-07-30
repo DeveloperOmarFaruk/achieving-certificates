@@ -2,6 +2,13 @@
 # Frontend Certificates
 #
 
+### `React Crash Course: From Zero to Hero`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-5e3720be-b06b-4a2f-a607-53e06821fae3/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/React%20Crash%20Course%20From%20Zero%20to%20Hero.jpg)
+#
+
 ### `JavaScript OOP: Mastering Modern Object-Oriented Programming`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-a4aa921e-b523-4745-a221-01c5d9792652/)
