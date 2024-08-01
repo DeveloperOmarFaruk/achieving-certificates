@@ -2,6 +2,13 @@
 # Frontend Certificates
 #
 
+### `The Complete JavaScript Course: From Zero to Expert`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-2220fe60-a080-4bb1-9468-c44541b54547/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/The%20Complete%20JavaScript%20Course%20From%20Zero%20to%20Expert.jpg)
+#
+
 ### `React Crash Course: From Zero to Hero`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-5e3720be-b06b-4a2f-a607-53e06821fae3/)
