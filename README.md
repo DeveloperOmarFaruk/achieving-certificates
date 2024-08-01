@@ -2,6 +2,13 @@
 # Frontend Certificates
 #
 
+### `Javascript For Beginners Complete Course`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-58bb41d5-2691-4e0b-87b4-0e88db2a10c1/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Javascript%20For%20Beginners%20Complete%20Course.jpg)
+#
+
 ### `The Complete JavaScript Course: From Zero to Expert`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-2220fe60-a080-4bb1-9468-c44541b54547/)
