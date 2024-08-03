@@ -2,6 +2,13 @@
 # Frontend Certificates
 #
 
+### `Learn to Code HTML & CSS for Responsive Real-World Websites`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-730e5ba6-47c5-4c61-99ad-60ff7c747a36/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/FrontendCertificates/Learn%20to%20Code%20HTML%20%26%20CSS%20for%20Responsive%20Real-World%20Websites.jpg)
+#
+
 ### `Javascript For Beginners Complete Course`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-58bb41d5-2691-4e0b-87b4-0e88db2a10c1/)
