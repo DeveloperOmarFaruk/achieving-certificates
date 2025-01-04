@@ -1,6 +1,13 @@
 #
 # Frontend Certificates
 #
+### `JavaScript, jQuery & TypeScript Full-Stack Web Development`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-07223379-403c-4dc6-bfd0-541e8e1bc9bb/)
+#
+![image](https://github.com/user-attachments/assets/9ff3b9ba-8229-4bf7-8b81-f898f1e5ca33)
+
+#
 
 ### `Learn to Code HTML & CSS for Responsive Real-World Websites`
 #
