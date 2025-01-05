@@ -1,5 +1,5 @@
 #
-# Frontend Certificates
+# 
 #
 ### `JavaScript, jQuery & TypeScript Full-Stack Web Development`
 #
