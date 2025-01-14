@@ -252,6 +252,13 @@
 # Backend Certificates
 #
 
+### `MongoDB - The Complete MongoDB Developers Course`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-004ef527-7520-4c8a-9534-75956eed504b/)
+#
+![image](https://github.com/user-attachments/assets/41113251-86b7-4dd7-8e1e-fc14e7dad016)
+#
+
 ### `Learn SQL in 3 Hours: A tutorial for fast learners`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-49d4609c-4163-4b04-942d-f8189a6a8c51/)
