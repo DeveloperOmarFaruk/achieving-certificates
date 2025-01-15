@@ -1,6 +1,14 @@
 #
 # Frontend Certificates
 #
+### `JavaScript - Complete Guide (Beginner + Advanced)`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-e90d9ed5-702e-4b6e-8658-0b6776c20b41)
+#
+
+![image](https://github.com/user-attachments/assets/d935adf7-6346-4645-af38-163278662fd8)
+
+#
 ### `TailwindCSS from A to Z Master TailwindCSS Quickly`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-4e7f043f-cc44-472c-95dc-689299a945d6)
