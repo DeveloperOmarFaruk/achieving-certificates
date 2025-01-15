@@ -1,6 +1,13 @@
 #
 # Frontend Certificates
 #
+### `TailwindCSS from A to Z Master TailwindCSS Quickly`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-4e7f043f-cc44-472c-95dc-689299a945d6)
+#
+![image](https://github.com/user-attachments/assets/2082be9e-dde7-4e45-b4b3-3a1cf70bfee5)
+
+#
 ### `JavaScript, jQuery & TypeScript Full-Stack Web Development`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-07223379-403c-4dc6-bfd0-541e8e1bc9bb/)
