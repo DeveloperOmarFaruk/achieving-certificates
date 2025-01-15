@@ -1,6 +1,14 @@
 #
 # Frontend Certificates
 #
+### `TypeScript for Beginners: Mastering TypeScript Fundamentals`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-c51660e3-7f20-4ed1-9887-efffa09356c0)
+#
+![image](https://github.com/user-attachments/assets/90d5f36f-f9b2-4f29-beaf-a4f74b6145b2)
+
+
+#
 ### `JavaScript - Complete Guide (Beginner + Advanced)`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-e90d9ed5-702e-4b6e-8658-0b6776c20b41)
