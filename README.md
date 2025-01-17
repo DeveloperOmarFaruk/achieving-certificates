@@ -340,13 +340,7 @@
 
 #
 # Others Certificates
-#
 
-### `The Git & GitHub Bootcamp: The Complete-Practical Guide`
-#
-[Live Preview this Certificate](https://www.udemy.com/certificate/UC-951a5d28-9a0d-44c1-aeec-35dd1fb0e1d8/)
-#
-![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/Others/The%20Git%20%26%20GitHub%20Bootcamp%20The%20Complete-Practical%20Guide.jpg)
 #
 
 ### `Git GitHub Markdown Crash Course Learn Git GitHub  MD`
@@ -354,4 +348,11 @@
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-319d49f7-0962-4b25-9abd-f08335120eef)
 #
 ![image](https://github.com/user-attachments/assets/95cf9505-fe4b-4f73-bd62-2a70e9cc208e)
+#
+
+### `The Git & GitHub Bootcamp: The Complete-Practical Guide`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-951a5d28-9a0d-44c1-aeec-35dd1fb0e1d8/)
+#
+![image](https://github.com/DeveloperOmarFaruk/achieving-certificates/blob/main/Others/The%20Git%20%26%20GitHub%20Bootcamp%20The%20Complete-Practical%20Guide.jpg)
 #
