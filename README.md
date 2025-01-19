@@ -1,6 +1,13 @@
 #
 # Frontend Certificates
 #
+### `Build a Custom E-Commerce Site in React JavaScript Basics`
+#
+[Live Preview this Certificate](https://www.udemy.com/certificate/UC-6d4edb0b-c811-478d-b6cf-6c6d2c494109)
+#
+![image](https://github.com/user-attachments/assets/250826c9-37a9-4c7d-a226-902fb4c421d8)
+
+#
 ### `TypeScript for Beginners: Mastering TypeScript Fundamentals`
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-c51660e3-7f20-4ed1-9887-efffa09356c0)
