@@ -1,7 +1,7 @@
 #
 # Frontend Certificates
 #
-### `Practical Next.js React Build a real WebApp with Next.js`
+
 #
 [Live Preview this Certificate](https://www.udemy.com/certificate/UC-e5df0bfe-8dca-4397-bfa1-9a928bf594a7)
 #
